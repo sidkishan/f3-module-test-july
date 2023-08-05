@@ -103,7 +103,6 @@ async function appendTimeInfo(data) {
 //   });
 // }
 //initMap();
-//api key : AIzaSyBjHxqLm3dH-4JxfOSw9JVMB3RrwxYs0IY
 /*
 {
   city: "Bengaluru";
